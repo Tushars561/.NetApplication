@@ -1,0 +1,27 @@
+# Build directories
+bin/
+obj/
+out/
+Migration/
+
+# User-specific files
+*.user
+*.suo
+
+# Logs
+*.log
+
+# VS Code / Rider
+.vscode/
+.idea/
+.vs/
+
+# NuGet packages
+packages/
+*.nupkg
+project.assets.json
+
+# Local configuration
+appsettings.Development.json
+secrets.json
+ECHO is on.
